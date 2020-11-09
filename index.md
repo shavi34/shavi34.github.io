@@ -2,8 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from joefclarin.github.io/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 09 Nov 2020 06:51:56 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 
   <meta charset="utf-8">
