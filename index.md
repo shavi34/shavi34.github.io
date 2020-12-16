@@ -78,7 +78,7 @@
           <a href="https://www.linkedin.com/in/shavinda/">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href="https://github.com/shavinda">
+          <a href="https://github.com/shavi34">
             <i class="fab fa-github"></i>
           </a>
           <a href="https://www.facebook.com/shavi.decode">
@@ -441,88 +441,89 @@
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content mb-3">
             <h3 class="mb-0">Brightt</h3>
-            <div class="subheading mb-3">Website under construction</div>
-            <!--div class="subheading mb-3"><a target="_blank" href="https://brightt.com.au">brightt.com.au</a></div-->
-            <div class="mb-0">WordPress, Elementor Pro</div>
-            <div class="mb-0"></div>
-          </div>
-          <div class="resume-date text-md-right">
-            <div class="mb-0">
-              <img class="img-fluid" src="img/projects/brightt.png" alt="Anomaly 2.0" />
-            </div>
-          </div>
-        </div>
-        
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content mb-3">
-            <h3 class="mb-0">WorkSafe Guardian</h3>
-            <div class="subheading mb-3">Website under construction</div>
-            <!--div class="subheading mb-3"><a target="_blank" href="https://worksafeguardian.com.au">worksafeguardian.com.au</a></div-->
-            <div class="mb-0">WordPress, Elementor Pro</div>
-            <div class="mb-0">Creator of Australia'a best lone worker safety alert app which is trusted by hundreds of organisations to protect their most valuable asset – their employees.</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <div class="mb-0">
-              <img class="img-fluid" src="img/projects/worksafe-guardian.png" alt="Anomaly 2.0" />
-            </div>
-          </div>
-        </div>
-        
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content mb-3">
-            <h3 class="mb-0">Fly Library</h3>
-            <div class="subheading mb-3">Website under construction</div>
-            <!--div class="subheading mb-3"><a target="_blank" href="https://frylibrary.com.au">frylibrary.com.au</a></div-->
+            <div class="subheading mb-3">ORGANO GOLD AUSTRALIA</div>
+            <div class="subheading mb-3"><a target="_blank" href="https://organogoldaustralia.com.au/">organogoldaustralia.com.au</a></div>
             <div class="mb-0">WordPress, Elementor Pro, Woocommerce</div>
-            <div class="mb-0">Fry Library and School Supplies was established in 1997 by Brett and Marie Fry and are a proud Australian family owned business.</div>
+            <div class="mb-0">ORGANO GOLD AUSTRALIA, or as its trading name to be  “Organo Down Under”, is now set on the way<br /> to start
+               introducing the world’s first Healthy Beverages: 5 different types of Coffee, 3 different Tea and Ice Tea for summer, Hot Chocolate. </div>
           </div>
           <div class="resume-date text-md-right">
             <div class="mb-0">
-              <img class="img-fluid" src="img/projects/fry-library.png" alt="Anomaly 2.0" />
+              <img class="img-fluid" src="img/projects/892.png" alt="Anomaly 2.0" />
             </div>
           </div>
         </div>
         
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content mb-3">
-            <h3 class="mb-0">Anomaly 2.0</h3>
-            <div class="subheading mb-3">Website under construction</div>
-            <!--div class="subheading mb-3"><a target="_blank" href="https://anomaly.com.au">anomaly.com.au</a></div-->
+            <h3 class="mb-0">Silverline Telehealth</h3>
+            <div class="subheading mb-3">silverline Telehealth</div>
+            <div class="subheading mb-3"><a target="_blank"href="https://silverlinetelehealth.com.au/">silverlinetelehealth.com.au</a></div>
             <div class="mb-0">WordPress, Elementor Pro</div>
-            <div class="mb-0">Anomaly is an Adelaide based creative agency that offers video production, marketing and advertising.</div>
+            <div class="mb-0">Silverline Telehealth Service connects clients, who are living in regional & rural areas of country <br /> needing mental health assessment and care, with well experienced & dedicated psycatricts.</div>
           </div>
           <div class="resume-date text-md-right">
             <div class="mb-0">
-              <img class="img-fluid" src="img/projects/anomaly2.png" alt="Anomaly 2.0" />
+              <img class="img-fluid" src="img/projects/893.png" alt="Anomaly 2.0" />
+            </div>
+          </div>
+        </div>
+        
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content mb-3">
+            <h3 class="mb-0">Silky Tone Lanka</h3>
+            <div class="subheading mb-3">Website under construction</div>
+            <div class="subheading mb-3"><a target="_blank" href="https://silkytonelanka.com/">silkytonelanka.com</a></div>
+            <div class="mb-0">WordPress, Elementor Pro</div>
+            <div class="mb-0">Silky Tone Lanka is an ideal place for modern fashion seekers. Our own unique saree collection <br />is a blend of traditional and modernized fashion trends. </div>
+          </div>
+          <div class="resume-date text-md-right">
+            <div class="mb-0">
+              <img class="img-fluid" src="img/projects/895.png" alt="Anomaly 2.0" />
+            </div>
+          </div>
+        </div>
+        
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content mb-3">
+            <h3 class="mb-0">Topline Sanitationinc</h3>
+            <div class="subheading mb-3">Website under construction</div>
+            <div class="subheading mb-3"><a target="_blank" href="https://toplinesanitationinc.ca/">toplinesanitationinc.ca</a></div>
+            <div class="mb-0">WordPress, Elementor Pro Woocommerce</div>
+            <div class="mb-0">Topline Sanitation Inc. has been offering quality products that make cleaning quick and easy for <br /> almost 20 years.</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <div class="mb-0">
+              <img class="img-fluid" src="img/projects/898.png" alt="Anomaly 2.0" />
             </div>
           </div>
         </div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content mb-3">
-            <h3 class="mb-0">Tattoo With Intention</h3>
-            <div class="subheading mb-3"><a target="_blank" href="http://tattoowithintention.com.au/">tattoowithintention.com.au</a></div>
-            <div class="mb-0">WordPress, Elementor Pro, Woocommerce</div>
-            <div class="mb-0">Tattoo With Intention is a tattoo studio and school run by Pablo Mascia. Pablo is an experienced and passionate tattoo artist who has been researching the old ways of tattooing alongside the benefits of using tattooing as a healing tool for the past 10 years.</div>
+            <h3 class="mb-0">NSexlanka</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://www.nexlanka.com/">www.nexlanka.com</a></div>
+            <div class="mb-0">Presta shop</div>
+            <div class="mb-0">Nex Computer is a leading IT Solutions Provider in Sri Lanka offering it's customers the best option <br />in Computers, Note books and all other IT accessories with an innovative product <br />portfolio and an unparalleled after sale service</div>
           </div>
           <div class="resume-date text-md-right">
             <div class="mb-0">
-              <img class="img-fluid" src="img/projects/twi.png" alt="Tattoo With Intention" />
+              <img class="img-fluid" src="img/projects/899.png" alt="Tattoo With Intention" />
             </div>
           </div>
         </div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content mb-3">
-            <h3 class="mb-0">Pathway Bookkeeping</h3>
+            <h3 class="mb-0">Shamini Rubber</h3>
             <div class="subheading mb-3">Website under construction</div>
-            <!--div class="subheading mb-3"><a target="_blank" href="http://pathwaybookkeeping.com.au/">pathwaybookkeeping.com.au</a></div-->
-            <div class="mb-0">WordPress, Elementor Pro</div>
-            <div class="mb-0">Pathway Bookkeeping is an accounting firm dedicated to making managing your books simple and easy.</div>
+            <!--div class="subheading mb-3"><a target="_blank" href="http://shaminirubber.com/">http://shaminirubber.com/</a></div-->
+            <div class="mb-0">HTML CSS JS Bootstrap</div>
+            <div class="mb-0">shamini rubber industries Being in the industry for more than three decades, Shamini Rubber Industries has become a leading expert in the capacity of rubber products manufacturing.</div>
           </div>
           <div class="resume-date text-md-right">
             <div class="mb-0">
-              <img class="img-fluid" src="img/projects/pathway-bookkeeping.png" alt="Pathway Bookkeeping" />
+              <img class="img-fluid" src="img/projects/896.png" alt="Pathway Bookkeeping" />
             </div>
           </div>
         </div>
