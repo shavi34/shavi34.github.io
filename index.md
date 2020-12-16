@@ -440,7 +440,7 @@
         
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content mb-3">
-            <h3 class="mb-0">Brightt</h3>
+            <h3 class="mb-0">ORGANO GOLD AUSTRALIA</h3>
             <div class="subheading mb-3">ORGANO GOLD AUSTRALIA</div>
             <div class="subheading mb-3"><a target="_blank" href="https://organogoldaustralia.com.au/">organogoldaustralia.com.au</a></div>
             <div class="mb-0">WordPress, Elementor Pro, Woocommerce</div>
