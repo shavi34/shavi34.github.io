@@ -444,8 +444,8 @@
             <div class="subheading mb-3">ORGANO GOLD AUSTRALIA</div>
             <div class="subheading mb-3"><a target="_blank" href="https://organogoldaustralia.com.au/">organogoldaustralia.com.au</a></div>
             <div class="mb-0">WordPress, Elementor Pro, Woocommerce</div>
-            <div class="mb-0">ORGANO GOLD AUSTRALIA, or as its trading name to be  “Organo Down Under”, is now set on the way<br /> to start
-               introducing the world’s first Healthy Beverages: 5 different types of Coffee, 3 different Tea and Ice Tea for summer, Hot Chocolate. </div>
+            <div class="mb-0">ORGANO GOLD AUSTRALIA, or as its trading name to be  “Organo Down Under”, is now set on<br /> the way to start
+               introducing the world’s first Healthy Beverages: 5 different types of Coffee, 3 different Tea and Ice Tea <br /> for summer, Hot Chocolate. </div>
           </div>
           <div class="resume-date text-md-right">
             <div class="mb-0">
