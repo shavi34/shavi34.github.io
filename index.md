@@ -458,7 +458,7 @@
           <div class="resume-content mb-3">
             <h3 class="mb-0">Silverline Telehealth</h3>
             <div class="subheading mb-3">silverline Telehealth</div>
-            <div class="subheading mb-3"><a target="_blank"href="https://silverlinetelehealth.com.au/">silverlinetelehealth.com.au</a></div>
+            <div class="subheading mb-3"><a target="_blank" href="https://silverlinetelehealth.com.au/">silverlinetelehealth.com.au</a></div>
             <div class="mb-0">WordPress, Elementor Pro</div>
             <div class="mb-0">Silverline Telehealth Service connects clients, who are living in regional & rural areas of country <br /> needing mental health assessment and care, with well experienced & dedicated psycatricts.</div>
           </div>
