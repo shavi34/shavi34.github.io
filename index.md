@@ -70,7 +70,7 @@
         <h1 class="mb-0">Shavinda De
           <span class="text-primary">Silva</span>
         </h1>
-        <div class="subheading mb-5">7 5A Riverside Dr, Bedford Park, Adelaide SA, Australia · (61) 0451 836 493 ·
+        <div class="subheading mb-5">Riverside Dr, Bedford Park, Adelaide SA, Australia · (+61) 466 268 068 ·
           <a href="mailto:shavinda34@gmail.com">shavinda34@gmail.com</a>
         </div>
         <p class="lead mb-5">I am experienced in software and web development with an excellent understanding of concepts of programming practices on both back-end and front-end. With my experience with various job positions, I learned a range of different skills in both technical and project management. </p>
